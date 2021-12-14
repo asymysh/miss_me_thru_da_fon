@@ -1,7 +1,7 @@
 Soulja boy wont tell you but your fellow teammates can!
 
 
-Rudimentary Discord bot coded in python utilising Twilio's REST API to call you when youre out cold.    
+Some shit Discord bot coded in python utilising Twilio's REST API to call you when youre out cold.    
 Feel free to add a star ⭐ to the repository if the bot saved your day :_)    
   
   
