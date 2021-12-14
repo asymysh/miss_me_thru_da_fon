@@ -5,5 +5,5 @@ Some shit Discord bot coded in python utilising Twilio's REST API to call you wh
 Feel free to add a star ⭐ to the repository if the bot saved your day :_)    
   
   
-👩🖨️ Gotta Call 'em All: !screamnshout to call all the listed numbers on the database.  
+👩🖨️ Gotta Call 'em All: !gottacallemall to call all the listed numbers on the database.  
 ⚙️✉️ Ping: !ping to ping the running status 
